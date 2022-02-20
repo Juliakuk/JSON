@@ -1,0 +1,10 @@
+{
+         "bug_report": {
+           "Summary":"Login:Error messages in the login form are displayed in English",
+           "Enviroment":"All browsers / devices",
+           "Severity":"Major",
+           "Actual result":"Error messages in the login form are displayed in English",
+           "Expected result":"Error messages in the login form are displayed in the chosen language",
+           "Attachment":"JPG"
+         }
+}
